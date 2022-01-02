@@ -1,6 +1,6 @@
 {
   "name": "Node Unblocker",
-  "description": "Node-Unblocker的Web\",
+  "description": "Node-Unblocker",
   "image": "heroku/nodejs",
   "repository": "https://github.com/gfw-breaker/heroku-node-proxy",
   "keywords": ["node-noblocker", "gfw-breaker"],
